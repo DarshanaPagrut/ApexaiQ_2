@@ -1,0 +1,3 @@
+Hello, this is a sample text file.
+Python file handling example.
+This line is appended to the file.
