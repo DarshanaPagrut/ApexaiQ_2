@@ -1,0 +1,11 @@
+﻿Version,Servicing option,Availability date,OS build,"End of servicing: Home, Pro, Pro Education, and Pro for Workstations","End of servicing: Enterprise, Education, IoT Enterprise, and Enterprise multi-session",Build,Mainstream support end date,Extended support end date
+24H2,General Availability Channel,2024-10-01,26100,2026-10-13,2027-10-12,,,
+23H2,General Availability Channel,2023-10-31,22631,2025-11-11,2026-11-10,,,
+22H2,General Availability Channel,2022-09-20,22621,2024-10-08,2025-10-14,,,
+21H2,General Availability Channel,2021-10-04,22000,End of servicing,2024-10-08,,,
+24H2,Long-Term Servicing Channel (LTSC),2024-10-01,,,,26100,2029-10-09,2034-10-10
+22H2,General Availability Channel,2022-10-18,,2025-10-14,2025-10-14,19045,,
+2021 (21H2),Long-Term Servicing Channel (LTSC),2021-11-16,,,,19044,2027-01-12,2032-01-13 (IoT Enterprise only)1
+2019 (1809),Long-Term Servicing Channel (LTSC),2018-11-13,,,,17763,End of servicing,2029-01-09
+2016 (1607),Long-Term Servicing Branch (LTSB),2016-08-02,,,,14393,End of servicing,2026-10-13
+2015 (1507/RTM),Long-Term Servicing Branch (LTSB),2015-07-29,,,,10240,End of servicing,2025-10-14
