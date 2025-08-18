@@ -1,0 +1,49 @@
+0,1,2,3,4,5
+,"Microsoft 365 Apps
+No end date","Office LTSC 2024
+EOS Oct 2029","Office LTSC 2021
+EOS Oct 2026","Office 2019
+EOS Oct 2025","Office 2016
+EOS Oct 2025"
+"Windows 11
+In support1",No end date 1,Oct 2029,Oct 2026,Oct 2025,Oct 2025 2
+"Windows 10
+EOS Oct 2025",Oct 2025,Oct 2025,Oct 2025,Oct 2025,Oct 2025
+"Windows 8.1
+EOS Jan 2023",Jan 2023 3,n/a,n/a,n/a,Jan 2023 4
+,,,,,
+"Windows Server 2025
+EOS Oct 2034",Oct 2029 5,Oct 2029,Oct 2026,Oct 2025,n/a
+"Windows Server 2022
+EOS Oct 2031",Oct 2026 5,Oct 2029,Oct 2026,Oct 2025,n/a
+"Windows Server 2019
+EOS Jan 2029",Oct 2025,n/a,Oct 2026,Oct 2025,n/a
+"Windows Server 2016
+EOS Jan 2027",Oct 2025,n/a,n/a,n/a,Oct 2025
+,,,,,
+"Windows 11 LTSC 2024
+EOS Oct 2029",n/a,Oct 2029,Oct 2026,Oct 2025,n/a
+"Windows 10 LTSC 2021
+EOS Jan 2027",n/a,Jan 2027,Oct 2026,Oct 2025,n/a
+"Windows 10 LTSC 2019
+EOS Jan 2029",n/a,Jan 2029,Oct 2026,Oct 2025,n/a
+"Windows 10 LTSB 2016
+EOS Oct 2026",Jan 2020,n/a,n/a,n/a,Oct 2025
+"Windows 10 LTSB 2015
+EOS Oct 2025",Jan 2020,n/a,n/a,n/a,Oct 2025
+,"Microsoft 365 Services
+No end date",,,,
+"Microsoft 365 Apps
+No end date",No end date,,,,
+"Office LTSC 2024
+EOS Oct 2029
+End of mainstream support Oct 2029",Oct 2029,,,,
+"Office LTSC 2021
+EOS Oct 2026
+End of mainstream support Oct 2026",Oct 2026,,,,
+"Office 2019
+EOS Oct 2025
+End of mainstream support Oct 2023",Oct 2023,,,,
+"Office 2016
+EOS Oct 2025
+End of mainstream support Oct 2020",Oct 2023,,,,
